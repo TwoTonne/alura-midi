@@ -10,7 +10,7 @@ Esse projeto trata-se de uma página da Alura Midi para web. Trata-se de um tecl
 
 ## 📁 Galeria do projeto
 
-
+[Veja o projeto final do curso em funcionamento](https://alura-midi-blush.vercel.app).
 
 ![screencapture-127-0-0-1-5500-index-html-2023-07-26-18_09_30](https://github.com/TwoTonne/alura-midi/assets/69181302/17bb6b0c-ae61-4f80-90e2-5cf415a3bdc5)
 
